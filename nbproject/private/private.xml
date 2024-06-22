@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/views/elements/Transition.java</file>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/views/main_frame/CanvasFA.java</file>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/ndfa/Transition.java</file>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/runners/Runner.java</file>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/views/elements/StateElement.java</file>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/views/main_frame/MainFrame.java</file>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/views/main_frame/MyJOption.java</file>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/controller/PushdownControl.java</file>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/ndfa/stack/StackNode.java</file>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/ndfa/stack/Stack.java</file>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/views/main_frame/JDialogTransition.java</file>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/views/elements/TransitionInfo.java</file>
+            <file>file:/C:/Users/novoa/Documents/NetBeansProjects/PushDownAutomaton/src/views/main_frame/MyNorthPanel.java</file>
+        </group>
+    </open-files>
+</project-private>
